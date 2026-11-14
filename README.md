@@ -39,7 +39,7 @@ Senior students rotate through vocational modules, including Food and Beverage (
 
 During the 18 September F\&B lesson observation, students rotated through cashier, barista and service roles. Teachers used schedules, pictures, physical cards and iPad instructions to guide familiar routines (Appendix A). A class had 5-6 students with 2-3 teachers/job coaches. At any point in time, some students will be left to complete their assigned task independently while the teachers guide the others. For students that are non-verbal, they heavily relied on the *Proloquo2go*, a symbol-supported Augmentative and Alternative Communication (AAC) app for iPad and iPhone to communicate. The interface is shown below in Figure 1\.
 
-![Proloquo2go user interface](images/fig-1.png)  
+![Proloquo2go user interface](fig-1.png)  
 *Figure 1: Proloquo2go User Interface*
 
 Using the same app, the student at the barista station utilises it to display instructions and listens to the text-to-speech function.
@@ -159,7 +159,7 @@ After a few rounds of testing and feedback based on the prototypes we made with 
 
 The main trade-off is that teachers can change GDevelop's settings, such as prompt levels and food items, but cannot build new scenarios without our help.
 
-![Weighted comparison matrix for development platforms](images/fig-2.png)
+![Weighted comparison matrix for development platforms](fig-2.png)
 
 *Figure 2: Weighted Comparison Matrix for Different Development Platforms*
 
@@ -205,10 +205,10 @@ We received feedback from our supervisors after running through the initial prot
 *Table 6: Improvements made to initial prototype*
 
 These refinements were guided by the identified student and teacher needs, with an emphasis on improving accessibility, adaptability and the relevance of the learning experience. In particular, simplifying the interface and incorporating multimodal instructions aimed to reduce the cognitive demands associated with navigating the prototype (Figure 3 and 4). Meanwhile, adjustable prompt levels and task variations were introduced to accommodate differing student abilities and encourage independent problem-solving rather than memorisation of routine responses. Teacher-facing features were also incorporated to facilitate the monitoring of student performance and enable more personalised learning experiences.  
-![Initial Codex prototype V1](images/fig-3.png)  
+![Initial Codex prototype V1](fig-3.png)  
 *Figure 3: Initial Codex Prototype V1*
 
-![Refined V1 with improvements made](images/fig-4.png)  
+![Refined V1 with improvements made](fig-4.png)  
 *Figure 4: Refined V1 with improvements made*
 
 ## 5.4 Prototype V2
@@ -365,16 +365,16 @@ Yang, L., Sin, K. F., & Savickas, M. L. (2023b). Assessing factor structure and 
 
 The senior F\&B class used a visible schedule, safety reminders, illustrated instructions, physical cards and iPads. The notes describe cashier, barista and service tasks. Some learners used a prolog and others used physical communication cards. A single observed class informed the scenario and the presentation of instructions.
 
-![Barista station using Proloquo2go on an iPad](images/fig-5.png)  
+![Barista station using Proloquo2go on an iPad](fig-5.jpg)  
 Figure 5: Barista station featuring students using the Prolog on an iPad to follow the coffee-making steps. When they tap the next step, the app reads the instruction aloud.
 
-![Cashier station using Proloquo2go on an iPad](images/fig-6.png)  
+![Cashier station using Proloquo2go on an iPad](fig-6.jpg)  
 Figure 6: Cashier station featuring the Prolog on the iPad used by non-verbal students to communicate as a customer or cashier. 
 
-![QR codes of customer and cashier scripts](images/fig-7a.png)
-![Cashier script obtained from the QR code](images/fig-7b.png)  
+![QR codes of customer and cashier scripts](fig-7-a.jpg)
+![Cashier script obtained from the QR code](fig-7-b.jpg)  
 Figure 7: QR codes of script for customer and cashier (left) and script for cashier obtained from the QR code (right)  
-![Play money and other hardware at the cashier station](images/fig-8.png)  
+![Play money and other hardware at the cashier station](fig-8.jpg)  
 *Figure 8: Picture of hardware (eg. play money) used at cashier station*
 
 ## Appendix B: Job Coach Interview Transcript
@@ -440,14 +440,14 @@ Score Reasoning:
 
 ## Appendix D: Prototype V2 Screenshots
 
-![Teacher setup dashboard](images/fig-9.png)
+![Teacher setup dashboard](fig-9.png)
 
 Figure 9: Teacher setup dashboard  
-![Check-in interface](images/fig-10.png)  
+![Check-in interface](fig-10.png)  
 Figure 10: Check-in interface  
-![First tutorial step with voice recording](images/fig-11.png)  
+![First tutorial step with voice recording](fig-11.png)  
 Figure 11: First step of tutorial featuring voice recording feature  
-![Summary of session statistics](images/fig-12.png)  
+![Summary of session statistics](fig-12.png)  
 Figure 12: Summary of session statistics
 
 ## Appendix E: Evaluation Plan 

@@ -9,7 +9,7 @@
 
 # Summary
 
-Students with autism often find it difficult to respond when workplace routines are disrupted, and current vocational training mainly rehearses tasks as they are expected to go. Working with AWWA, this project is developing a tool that lets F\&B students practise unexpected situations in a café cashier role. Following interviews and a lesson observation, we adopted the PCTL problem-solving framework and compared four evidence-based learning approaches. We then chose a hybrid: an iPad app that guides students through the problem-solving steps with adjustable prompts and records their progress, combined with physical props and teacher role-play. Two prototype versions were tested through an informal usability trial and a review with AWWA principals and teachers. In Semester 2, we will rebuild the tool in GDevelop and pilot it with AWWA students to measure learning.
+Students with autism often find it difficult to respond when workplace routines are disrupted, and current vocational training mainly rehearses tasks as they are expected to go. Working with AWWA, this project is developing a tool that lets F&B students practise unexpected situations in a café cashier role. Following interviews and a lesson observation, we adopted the PCTL problem-solving framework and compared four evidence-based learning approaches. We then chose a hybrid: an iPad app that guides students through the problem-solving steps with adjustable prompts and records their progress, combined with physical props and teacher role-play. Two prototype versions were tested through an informal usability trial and a review with AWWA principals and teachers. In Semester 2, we will rebuild the tool in GDevelop and pilot it with AWWA students to measure learning.
 
 # Individual Contributions
 
@@ -31,20 +31,20 @@ An analysis of 11 years of Singapore job postings found that communication has c
 
 AWWA School is a government-funded special education (SPED) school in Singapore run by the social service organization AWWA Ltd. They cater to children and youth with ASD and multiple disabilities aged 7 to 18 years old.
 
-Senior students rotate through vocational modules, including Food and Beverage (F\&B) and Logistics, until age 15\. From age 16, students choose a specialisation and work towards post-school pathways, including supported employment and sheltered workshops (AWWA Ltd, 2026\) (AWWA, 2024). Our intended users are students aged 16 to 18 in the F\&B and Logistics specialisation, and their teachers or job coaches. We observed an F\&B class, aged 16 to 18, to understand lesson routines and materials.
+Senior students rotate through vocational modules, including Food and Beverage (F&B) and Logistics, until age 15\. From age 16, students choose a specialisation and work towards post-school pathways, including supported employment and sheltered workshops (AWWA Ltd, 2026\) (AWWA, 2024). Our intended users are students aged 16 to 18 in the F&B and Logistics specialisation, and their teachers or job coaches. We observed an F&B class, aged 16 to 18, to understand lesson routines and materials.
 
 # 2 Problem Definition
 
 ## 2.1 What We Found
 
-During the 18 September F\&B lesson observation, students rotated through cashier, barista and service roles. Teachers used schedules, pictures, physical cards and iPad instructions to guide familiar routines (Appendix A). A class had 5-6 students with 2-3 teachers/job coaches. At any point in time, some students will be left to complete their assigned task independently while the teachers guide the others. For students that are non-verbal, they heavily relied on the *Proloquo2go*, a symbol-supported Augmentative and Alternative Communication (AAC) app for iPad and iPhone to communicate. The interface is shown below in Figure 1\.
+During the 18 September F&B lesson observation, students rotated through cashier, barista and service roles. Teachers used schedules, pictures, physical cards and iPad instructions to guide familiar routines (Appendix A). A class had 5-6 students with 2-3 teachers/job coaches. At any point in time, some students will be left to complete their assigned task independently while the teachers guide the others. For students that are non-verbal, they heavily relied on the *Proloquo2go*, a symbol-supported Augmentative and Alternative Communication (AAC) app for iPad and iPhone to communicate. The interface is shown below in Figure 1\.
 
 ![Proloquo2go user interface](fig-1.png)  
 *Figure 1: Proloquo2go User Interface*
 
 Using the same app, the student at the barista station utilises it to display instructions and listens to the text-to-speech function.
 
-Based on our interview(Appendix B) with the job coach of the F\&B lesson, we learnt that one common issue faced is that when something unexpected happens, students become quiet or stop. Others ask for help but cannot specify what went wrong. For example, they are not able to verbalise that a coffee machine did not dispense after pressing the button. The coach also described difficulty reusing a strategy and a need to consider multiple responses. Teachers already break down scenarios, but the amount of practice depends on the class and the foundational skills students are working on. Staff also described the current workflow as consolidating informal observations into end-of-semester assessments rather than consistent, structured tracking of each student’s progress across teachers and classes
+Based on our interview(Appendix B) with the job coach of the F&B lesson, we learnt that one common issue faced is that when something unexpected happens, students become quiet or stop. Others ask for help but cannot specify what went wrong. For example, they are not able to verbalise that a coffee machine did not dispense after pressing the button. The coach also described difficulty reusing a strategy and a need to consider multiple responses. Teachers already break down scenarios, but the amount of practice depends on the class and the foundational skills students are working on. Staff also described the current workflow as consolidating informal observations into end-of-semester assessments rather than consistent, structured tracking of each student’s progress across teachers and classes
 
 Similar difficulties are documented outside AWWA. The CNA documentary series *work.able* follows students with special needs as they transition from school to employment (CNA Insider, 2021). In one episode, a student was asked an open-ended customer-service question and remained silent for several minutes, despite knowing the menu. The professional featured in the episode attributed this to the student's reliance on structure: an unfamiliar, unscripted situation caused significant stress and disrupted his response (13:25-14:25). This mirrors the job coach's observation that some students "will keep quiet and not know what to do next". Both sources suggest that the difficulty lies less in task knowledge than in responding when a situation departs from routine.
 
@@ -58,7 +58,7 @@ Using the 5W method in Table 1 below, we framed the problem to further analyse i
 
 | Question | Answer  |
 | ----- | ----- |
-| Who | F\&B students aged 16–18 with autism at AWWA, and the teachers who train them |
+| Who | F&B students aged 16–18 with autism at AWWA, and the teachers who train them |
 | What | Students stall or cannot respond when a workplace task deviates from the routine |
 | When | At unplanned moments: wrong payment, machine fault, open-ended customer question |
 | Where | In vocational lessons now; in supported or open employment after age 18 |
@@ -70,7 +70,7 @@ One study reported gains in flexibility and problem solving after explicit teach
 
 ## 2.3 Existing Vocational Training Approaches
 
-In Singapore, various special education institutions have adopted structured and technology-assisted approaches to vocational training. MINDS incorporates practical vocational education in sectors such as retail, hospitality and F\&B, alongside authentic work attachments and digital learning technologies (MINDS, n.d.). Similarly, APSN Centre for Adults emphasises hands-on vocational training through specialised programmes, job trials and supported employment, with initiatives such as Café for All providing opportunities for authentic workplace practice (APSN, n.d.). Metta School also offers vocational certification and employment preparation pathways, incorporating workplace training and job coaching (Metta Welfare Association, n.d.).
+In Singapore, various special education institutions have adopted structured and technology-assisted approaches to vocational training. MINDS incorporates practical vocational education in sectors such as retail, hospitality and F&B, alongside authentic work attachments and digital learning technologies (MINDS, n.d.). Similarly, APSN Centre for Adults emphasises hands-on vocational training through specialised programmes, job trials and supported employment, with initiatives such as Café for All providing opportunities for authentic workplace practice (APSN, n.d.). Metta School also offers vocational certification and employment preparation pathways, incorporating workplace training and job coaching (Metta Welfare Association, n.d.).
 
 The integration of technology into vocational training is supported by emerging research. A systematic review of 40 studies found that video-based interventions were promising for teaching employment-related skills to individuals with autism and intellectual disabilities, with video prompting commonly used for technical tasks and video modelling for social skills (Vallecillo et al., 2025). Similarly, a systematic review by Abd Aziz et al. (2026) highlighted the potential of video modelling to support the acquisition of structured vocational skills among autistic learners. However, the review also emphasised that successful skill acquisition does not necessarily translate into generalisation across unfamiliar environments, highlighting the importance of explicit practice across varied contexts.
 
@@ -187,7 +187,7 @@ At the interim stage, our Codex prototypes explore the feasibility of translatin
 
 ## 5.2 Initial Prototype (V1)
 
-The prototype focuses on a café cashier scenario, adapted from the F\&B vocational training lesson observed at AWWA on 18 September. The routine task we picked was based on one of the three stations of the lesson, namely, the station where the student role plays as the cashier. We intended to translate what we saw into our prototype features while still maintaining the key idea of the lesson activity. The digital learning tool follows a **Learn–Practice–Apply** approach, where students are first guided through a routine task, adapted from the current lesson structure, before practising their responses to unexpected situations through interactive challenges. Features such as visual instructions, adjustable prompts and teacher controls were incorporated to accommodate different learning needs.
+The prototype focuses on a café cashier scenario, adapted from the F&B vocational training lesson observed at AWWA on 18 September. The routine task we picked was based on one of the three stations of the lesson, namely, the station where the student role plays as the cashier. We intended to translate what we saw into our prototype features while still maintaining the key idea of the lesson activity. The digital learning tool follows a **Learn–Practice–Apply** approach, where students are first guided through a routine task, adapted from the current lesson structure, before practising their responses to unexpected situations through interactive challenges. Features such as visual instructions, adjustable prompts and teacher controls were incorporated to accommodate different learning needs.
 
 ## 5.3 First Iteration
 
@@ -263,7 +263,7 @@ The Semester 1 work established usability and stakeholder fit, but did not measu
 
 The Semester 2 pilot will test whether practising with the tool helps students respond to unexpected situations, and whether this carries over beyond the app. We hypothesise that after three to four practice sessions, students will need less prompting to resolve an unexpected event, including in an unseen role-play.
 
-Three to five students from the F\&B cohort aged 16-18 will take part, with parental consent and student assent obtained through AWWA, subject to their availability. Each student will complete a baseline role-play, four app practice sessions and a post-test (Table 9). At each of five steps (notice, locate, choose, communicate, check), the observer will record the least support needed, from independent (3) to modelled response (0), giving a scenario score out of 15\. Appendix E shows the scoring table and the full details.
+Three to five students from the F&B cohort aged 16-18 will take part, with parental consent and student assent obtained through AWWA, subject to their availability. Each student will complete a baseline role-play, four app practice sessions and a post-test (Table 9). At each of five steps (notice, locate, choose, communicate, check), the observer will record the least support needed, from independent (3) to modelled response (0), giving a scenario score out of 15\. Appendix E shows the scoring table and the full details.
 
 | Phase | Task | Purpose |
 | ----- | ----- | ----- |
@@ -301,7 +301,7 @@ CAST, Inc. (n.d.-c). Action & expression. CAST UDL Guidelines. [https\://udlguid
 
 Cengher, M., Budd, A., Farrell, N., & Fienup, D. M. (2018). A review of prompt-fading procedures: Implications for effective and efficient skill acquisition. *Journal of Developmental and Physical Disabilities, 30*, 155–173. [https\://doi.org/10.1007/s10882-017-9575-8](https://doi.org/10.1007/s10882-017-9575-8)
 
-CNA Insider. (2021). Life With Special Needs: Am I Different? \| Work.Able \| Part 1/6 YouTube.[https\://www\.youtube.com/watch?v=5JOBZj6A65w\&t=875s](https://www.youtube.com/watch?v=5JOBZj6A65w&t=875s)
+CNA Insider. (2021). Life With Special Needs: Am I Different? \| Work.Able \| Part 1/6 YouTube.[https\://www\.youtube.com/watch?v=5JOBZj6A65w&t=875s](https://www.youtube.com/watch?v=5JOBZj6A65w&t=875s)
 
 Davies, J., Romualdez, A. M., Pellicano, E., & Remington, A. (2024). Career progression for autistic people: A scoping review. *Autism, 28*(11), 2690–2706. [https\://doi.org/10.1177/13623613241236110](https://doi.org/10.1177/13623613241236110)
 
@@ -363,7 +363,7 @@ Yang, L., Sin, K. F., & Savickas, M. L. (2023b). Assessing factor structure and 
 
 ## Appendix A: AWWA Lesson Observation on 18 September 2026
 
-The senior F\&B class used a visible schedule, safety reminders, illustrated instructions, physical cards and iPads. The notes describe cashier, barista and service tasks. Some learners used a prolog and others used physical communication cards. A single observed class informed the scenario and the presentation of instructions.
+The senior F&B class used a visible schedule, safety reminders, illustrated instructions, physical cards and iPads. The notes describe cashier, barista and service tasks. Some learners used a prolog and others used physical communication cards. A single observed class informed the scenario and the presentation of instructions.
 
 ![Barista station using Proloquo2go on an iPad](fig-5.jpg)  
 Figure 5: Barista station featuring students using the Prolog on an iPad to follow the coffee-making steps. When they tap the next step, the app reads the instruction aloud.

@@ -452,7 +452,7 @@ Figure 12: Summary of session statistics
 
 ## Appendix E: Evaluation Plan 
 
-1) #### **Scoring:**
+1) **Scoring:**
 
 For each of the five steps, record the least support the student needed:
 
